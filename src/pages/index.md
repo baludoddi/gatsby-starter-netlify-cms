@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Primity Call Receptionist
-image: /img/receptionest.jpg
+image: /img/receptiones-cpt.jpg
 heading: 24X7 Automated Phone Receptionist
 subheading: 24X7 Automated Phone Receptionist for your business or personal needs
 mainpitch:
