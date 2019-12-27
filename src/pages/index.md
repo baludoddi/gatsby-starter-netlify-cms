@@ -8,13 +8,19 @@ mainpitch:
   title: Why Primity's IVR / Auto Phone Receptionist
   description: >-
     Built using  next-generation mobile cloud communications technology, Primity
-    instantly gives you a virtual phone number that will answer you current
-    phone number at a very low cost with great features. Add 24X7 call answering
-    to you phone to give callers you location, business hours, web site and/or
-    review link and voice mail. Primity work s with your current land line or
-    mobile phone. All setup, management and notification is done using you
-    mobile phone, giving you a 2nd Primity number that has its own calling,
-    texting, voicemail and notifications.
+    instantly gives you a virtual phone number that will answer your current
+    phone number at a very low cost with great features. 
+
+
+    Primity add 24X7 call answering to your phone to give callers your location,
+    business hours, web site and/or review link, voice mail or forward to a live
+    person. 
+
+
+    Primity work s with your current land line or mobile phone. All setup,
+    management and notification is done using you mobile phone, giving you a 2nd
+    Primity number that has its own calling, texting, voicemail and
+    notifications.
 description: >-
   Primity is the ultimate solution for medium and small businesses that need a
   low cost easy to manager call answering system. It is a great solution for
