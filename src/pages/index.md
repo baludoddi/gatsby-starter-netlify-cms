@@ -5,17 +5,23 @@ image: /img/receptionest.jpg
 heading: 24X7 Automated Phone Receptionist
 subheading: 24X7 Automated Phone Receptionist for your business or personal needs
 mainpitch:
-  title: Why Primity's CAll Receptionist
-  description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+  title: Why Primity's IVR / Auto Phone Receptionist
+  description: >-
+    Built using  next-generation mobile cloud communications technology, Primity
+    instantly gives you a virtual phone number that will answer you current
+    phone number at a very low cost with great features. Add 24X7 call answering
+    to you phone to give callers you location, business hours, web site and/or
+    review link and voice mail. Primity work s with your current land line or
+    mobile phone. All setup, management and notification is done using you
+    mobile phone, giving you a 2nd Primity number that has its own calling,
+    texting, voicemail and notifications.
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  Primity is the ultimate solution for medium and small businesses that need a
+  low cost easy to manager call answering system. It is a great solution for
+  mobile only users like consultants, real-estate, etc. that only use a mobile
+  phone. Primity enables one mobile phone to have 2 lines on one phone to
+  separate personal and business incoming and outgoing calls, texting and
+  voicemail.
 intro:
   blurbs:
     - image: /img/coffee.png
