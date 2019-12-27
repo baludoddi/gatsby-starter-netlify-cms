@@ -12,9 +12,9 @@ mainpitch:
     phone number at a very low cost with great features. 
 
 
-    Primity add 24X7 call answering to your phone to give callers your location,
-    business hours, web site and/or review link, voice mail or forward to a live
-    person. 
+    Primity will add 24X7 call answering to your phone to give callers your
+    location, business hours, web site and/or review link, voice mail or forward
+    to a live person (if your call schedule indicate you are open) . 
 
 
     Primity work s with your current land line or mobile phone. All setup,
