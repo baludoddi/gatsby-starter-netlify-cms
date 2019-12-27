@@ -30,13 +30,15 @@ description: >-
   voicemail.
 intro:
   blurbs:
-    - image: /img/coffee.png
+    - image: /img/one-line-2.png
       text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
+        Mobile only user can separate business and person calls easily with
+        Primity.  You can use you carrier number for business and your Primity
+        number for personal calls or our carrier for personal and Primity for
+        business. Easily done with all calls (incoming and outgoing), SMS text
+        messages and voicemail each having their own business number and
+        personal number. All done at a very low cost using your current mobile
+        phone.
     - image: /img/coffee-gear.png
       text: >
         We offer a small, but carefully curated selection of brewing gear and
