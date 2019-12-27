@@ -38,10 +38,8 @@ intro:
         created by you from your mobile phone. "Our hours are, Our location is,
         See or customer reviews, Our products or services, and any other
         information you like, along with leaving a voice and re-call to see if
-        we are free now. And any of this information is not only spoken but can
-        also be text to the caller. Texting your location will provide easy
-        driving direction to mobile callers. Don't miss a business opportunity
-        by just sending your callers to voice mail.
+        we are free now. Don't miss a business opportunity by just sending your
+        callers to voice mail.
     - image: /img/one-line-2.png
       text: >
         Mobile only user can separate business and person calls easily with
@@ -51,13 +49,15 @@ intro:
         messages and voicemail each having their own business number and
         personal number. All done at a very low cost using your current mobile
         phone.
-    - image: /img/tutorials.png
+    - image: /img/driving-directions.png
       text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
+        With Primity any of your information is not only spoken but can also be
+        text to the caller. Your caller is driving and found you on a hands free
+        search. They want to know a little about your service, if you are open
+        and your address. With Primity all of this information is instantly
+        available to them and with Primity's text messaging feature it is just
+        one touch for the caller to get drive direction from their mobile
+        device. 
     - image: /img/meeting-space.png
       text: >
         We believe that good coffee has the power to bring people together.
