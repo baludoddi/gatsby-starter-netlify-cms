@@ -30,6 +30,18 @@ description: >-
   voicemail.
 intro:
   blurbs:
+    - image: /img/with-customer.png
+      text: >-
+        Is the phone ringing while you are with a customer? No problem for
+        Primity Call Assistant. Your calls with be answered 24X7 providing a
+        greeting and a selection of information for the caller. All easily
+        created by you from your mobile phone. "Our hours are, Our location is,
+        See or customer reviews, Our products or services, and any other
+        information you like, along with leaving a voice and re-call to see if
+        we are free now. And any of this information is not only spoken but can
+        also be text to the caller. Texting your location will provide easy
+        driving direction to mobile callers. Don't miss a business opportunity
+        by just sending your callers to voice mail.
     - image: /img/one-line-2.png
       text: >
         Mobile only user can separate business and person calls easily with
@@ -39,12 +51,6 @@ intro:
         messages and voicemail each having their own business number and
         personal number. All done at a very low cost using your current mobile
         phone.
-    - image: /img/coffee-gear.png
-      text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
     - image: /img/tutorials.png
       text: >
         Love a great cup of coffee, but never knew how to make one? Bought a
