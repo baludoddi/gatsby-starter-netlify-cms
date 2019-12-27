@@ -13,21 +13,22 @@ mainpitch:
 
 
     Primity will add 24X7 call answering to your phone to give callers your
-    location, business hours, web site and/or review link, voice mail or forward
-    to a live person (if your call schedule indicate you are open) . 
+    location, business hours, web site and/or review link, voice mail, or
+    forward to a live person (if your call schedule indicates that you are open)
+    . 
 
 
-    Primity work s with your current land line or mobile phone. All setup,
-    management and notification is done using you mobile phone, giving you a 2nd
-    Primity number that has its own calling, texting, voicemail and
+    Primity works with your current land line or mobile phone.  All setup,
+    management and notification is done using your mobile phone, giving you a
+    2nd Primity number that has its own calling, text messaging, voicemail, and
     notifications.
 description: >-
-  Primity is the ultimate solution for medium and small businesses that need a
-  low cost easy to manager call answering system. It is a great solution for
-  mobile only users like consultants, real-estate, etc. that only use a mobile
-  phone. Primity enables one mobile phone to have 2 lines on one phone to
-  separate personal and business incoming and outgoing calls, texting and
-  voicemail.
+  Primity is the solution for your medium or small business that needs a low
+  cost way to manage your call answering system. It's the solution for mobile
+  only users like consultants, real-estate agents, contractors, etc.  that only
+  use a mobile phone. Now you can have 2 lines on your mobile phone to enable
+  you to separate personal and business incoming and outgoing calls, text
+  messaging, and voicemail.   
 intro:
   blurbs:
     - image: /img/with-customer.png
