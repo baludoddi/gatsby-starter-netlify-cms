@@ -9,16 +9,10 @@ mainpitch:
   description: >-
     Built using  next-generation mobile cloud communications technology, Primity
     instantly gives you a virtual phone number that will answer your current
-    phone number at a very low cost with great features. 
-
-
-    Primity will add 24X7 call answering to your phone to give callers your
+    phone number at a very low cost with great features. Primity will add 24X7 call answering to your phone to give callers your
     location, business hours, web site and/or review link, voice mail, or
     forward to a live person (if your call schedule indicates that you are open)
-    . 
-
-
-    Primity works with your current land line or mobile phone.  All setup,
+    . Primity works with your current land line or mobile phone.  All setup,
     management and notification is done using your mobile phone, giving you a
     2nd Primity number that has its own calling, text messaging, voicemail, and
     notifications.
