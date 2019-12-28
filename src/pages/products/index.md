@@ -26,13 +26,20 @@ main:
   heading: >-
     Simple to setup your existing land line or mobile phone number to use
     Primity Call Assistance
-  description: >-
+  description: >
 
     To Do some details... The following section needs to be change to support
     image and text not just image...
+
+    1st image and text is overview of auto call forwarding to the Primity number
+    and getting to the call menu
+
+    2nd image and text is about land line auto call forwarding
+
+    3rd image and text is about mobile auto call forwarding
   image1:
     alt: About Call Forwarding
-    image: /img/call-forwarding.png
+    image: /img/primity-overview.png
   image2:
     alt: Land Line Phone Setup
     image: /img/land-line-phone.png
