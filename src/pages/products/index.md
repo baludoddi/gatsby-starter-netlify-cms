@@ -1,7 +1,7 @@
 ---
 templateKey: product-page
 title: Primity Product Details
-image: /img/2018-10-05_2-16-51.jpg
+image: /img/mobile-inhand.png
 heading: What is Primity
 description: To Do...
 intro:
