@@ -10,3 +10,4 @@ yarn-error.log
 .idea/
 node_modules-x/
 package-lock.json
+static/img/logo.svg-x
