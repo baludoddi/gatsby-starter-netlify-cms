@@ -37,6 +37,10 @@ main:
     2nd image and text is about land line auto call forwarding
 
     3rd image and text is about mobile auto call forwarding
+
+
+    Note: The following section needs a layout change... Similar but somewhat
+    different to the PROD INTRO BLURBS above.
   image1:
     alt: About Call Forwarding
     image: /img/primity-overview.png
