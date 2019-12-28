@@ -39,7 +39,8 @@ export default class Index extends React.Component {
         <section className="section">
           <div className="container">
             <div className="content">
-              <h1>Contact</h1>
+              <h1>Contact Us</h1>
+              <p>We want to here how Primity is working for you and about any issues and missing features you need.</p>
               <form
                 name="contact"
                 method="post"
